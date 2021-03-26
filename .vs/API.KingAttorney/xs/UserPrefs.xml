@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{A3F1B7E6-3968-43C8-BF49-472EEFA8072F}|Default">
+  <MonoDevelop.Ide.ItemProperties.API.KingAttorney PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewModels/VMError.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="58" Column="30" />
+      <File FileName="Controllers/AccountController.cs" Line="327" Column="10" />
+      <File FileName="Controllers/AuthenticationController.cs" Line="29" Column="48" />
+      <File FileName="Middleware/AuthorizeAttribute.cs" Line="13" Column="53" />
+      <File FileName="Middleware/JwtAuthorizationMid.cs" Line="27" Column="24" />
+      <File FileName="ViewModels/VMError.cs" Line="20" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API.KingAttorney" expanded="True">
+            <Node name="API.KingAttorney" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Middleware" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="VMError.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>../WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj</String>
+    <String>Console_dev/Console_dev.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny_api/API.KingAttorney/Controllers/AccountController.cs" relfile="Controllers/AccountController.cs" line="276" column="1" />
+      <Breakpoint file="/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny/Bus/B_Account.cs" line="289" column="1" />
+      <Breakpoint file="/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny/Bus/B_Account.cs" line="18" column="1" />
+      <Breakpoint file="/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny_api/API.KingAttorney/Controllers/AuthenticationController.cs" relfile="Controllers/AuthenticationController.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
