@@ -52,13 +52,12 @@ namespace API.KingAttorney
 
             app.UseRouting();
             app.UseAuthentication();
-         //   app.UseMiddleware();
+        
             app.UseAuthorization();
 
             app.UseJwtAuthorizationMid();
 
-            app.UseJwtAuthorizationMidSec();
-
+           
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

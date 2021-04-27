@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny_api/API.KingAttorney/API.KingAttorney.csproj": {}
+    "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny_api/API.KingAttorney/API.KingAttorney.csproj": {}
   },
   "projects": {
-    "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj": {
+    "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj",
+        "projectUniqueName": "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj",
         "projectName": "WebAdmin_KingAnttorny",
-        "projectPath": "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj",
+        "projectPath": "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj",
         "packagesPath": "/Users/hoangdoan/.nuget/packages/",
-        "outputPath": "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny/obj/",
+        "outputPath": "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hoangdoan/.config/NuGet/NuGet.Config"
+          "/Users/hoangdoan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -107,21 +107,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny_api/API.KingAttorney/API.KingAttorney.csproj": {
+    "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny_api/API.KingAttorney/API.KingAttorney.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny_api/API.KingAttorney/API.KingAttorney.csproj",
+        "projectUniqueName": "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny_api/API.KingAttorney/API.KingAttorney.csproj",
         "projectName": "API.KingAttorney",
-        "projectPath": "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny_api/API.KingAttorney/API.KingAttorney.csproj",
+        "projectPath": "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny_api/API.KingAttorney/API.KingAttorney.csproj",
         "packagesPath": "/Users/hoangdoan/.nuget/packages/",
-        "outputPath": "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny_api/API.KingAttorney/obj/",
+        "outputPath": "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny_api/API.KingAttorney/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hoangdoan/.config/NuGet/NuGet.Config"
+          "/Users/hoangdoan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -133,8 +133,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj": {
-                "projectPath": "/Users/hoangdoan/Projects/KTCoProject/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj"
+              "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj": {
+                "projectPath": "/Volumes/Data_Outside/002 H2A/002 SourceCode/KAT project/WebAdmin_KingAnttorny/WebAdmin_KingAnttorny.csproj"
               }
             }
           }
@@ -200,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
